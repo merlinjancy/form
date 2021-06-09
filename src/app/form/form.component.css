@@ -1,0 +1,18 @@
+body {
+    padding: 75px;
+    border: solid rgb(17, 12, 12) ;
+    width: 300px;
+    margin-left: 30%;
+    margin-top: 10%;
+    
+    
+    }
+.app{
+    border:double;
+    width: 300px;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    
+  }
